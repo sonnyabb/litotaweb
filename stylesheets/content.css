@@ -281,7 +281,6 @@ body {
 }
 
 .list4 img {
-    z-index: 1;
     position: absolute;
     top: 78vw;
     right: 60vw;
@@ -481,7 +480,7 @@ body {
     background-color: #216037;
     top: 205vw;
     height: 10vw;
-    width: 100vw;
+    width: 110vw;
     align-items: center;
 }
 
